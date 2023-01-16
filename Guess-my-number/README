@@ -1,3 +1,5 @@
 # Guess-my-number
 
-The application matches a random number with a number chosen by the player, calculate score and highscore and allows the user to player again. The application demonstrates DOM, event fundamentals and how using Javascript cam make the page more interactive and dynamic.
+The application matches a random number with a number chosen by the player, calculate score and highscore and allows the user to player again. 
+
+The application demonstrates how using Javascript cam make the page more interactive and dynamic using DOM and event handling.
